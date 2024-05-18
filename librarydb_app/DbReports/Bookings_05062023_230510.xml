@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<booksLoanedToReader>
+  <reader>
+    <LastName>Столяров</LastName>
+    <FirstName>Артём</FirstName>
+    <MiddleName>Константинович</MiddleName>
+    <Address>хwaf</Address>
+    <PhoneNumber>+7 (987) 654-32-10</PhoneNumber>
+    <books>
+      <book>
+        <Name>Облако в штанах (сборник)</Name>
+        <LoanDate>20.03.2022 0:00:00</LoanDate>
+        <ReturnDate>20.04.2022 0:00:00</ReturnDate>
+      </book>
+      <book>
+        <Name>Два трамвая</Name>
+        <LoanDate>03.06.2023 0:00:00</LoanDate>
+        <ReturnDate>03.07.2023 0:00:00</ReturnDate>
+      </book>
+      <book>
+        <Name>Анна Каренина</Name>
+        <LoanDate>04.06.2023 0:00:00</LoanDate>
+        <ReturnDate>04.07.2023 0:00:00</ReturnDate>
+      </book>
+    </books>
+  </reader>
+</booksLoanedToReader>
